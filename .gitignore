@@ -1,17 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
-# Flask stuff:
-instance/
-.webassets-cache
-
 # Jupyter Notebook
 .ipynb_checkpoints
-WeatherAPI.ipynb
 
 # my_files
-credentials.py
 
 # my folders
-procedure/
-materials/
