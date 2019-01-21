@@ -5,8 +5,10 @@ __pycache__/
 .ipynb_checkpoints
 
 # my_files
-paper.pdf
-calculations.mw
 
 # my folders
+materials/
+
+
+
 # ![alt text](images/before_after.jpg "Title")
